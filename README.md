@@ -1,14 +1,14 @@
-Project: Decentralized Crypto Debit Card
+#Project: Decentralized Crypto Debit Card
 
-Problem: Spending cryptocurrency in remote areas is extremely challenging due to limited infrastructure, lack of merchant adoption, and complex transaction processes.
+#Problem: Spending cryptocurrency in remote areas is extremely challenging due to limited infrastructure, lack of merchant adoption, and complex transaction processes.
 
-Solution: The decentralized crypto debit card offers a seamless way to spend cryptocurrency in everyday transactions, even in remote areas. This card connects directly to the user's crypto wallet, bypassing intermediaries to ensure decentralization.
+#Solution: The decentralized crypto debit card offers a seamless way to spend cryptocurrency in everyday transactions, even in remote areas. This card connects directly to the user's crypto wallet, bypassing intermediaries to ensure decentralization.
 
-Key Features:
+#Key Features:
 
-Direct Wallet Integration:
+*Direct Wallet Integration:
 
-Users can link the card directly to their decentralized crypto wallets (e.g., MetaMask, Trust Wallet).
+-Users can link the card directly to their decentralized crypto wallets (e.g., MetaMask, Trust Wallet).
 
 Eliminates the need for third-party custodians, ensuring complete control over funds.
 
